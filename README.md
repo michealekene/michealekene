@@ -1,5 +1,5 @@
 👋 Hi, I'm @michealekene!
-👀 I'm interested in developing secure products leveraging Python, cloud computing, specifically Google Cloud, and cybersecurity protocols across various platforms
+👀 I'm interested in developing secure products leveraging Python, cloud computing, specifically AWS Cloud, and cybersecurity protocols across various platforms
 🌱 I'm currently learning about the latest advancements in cloud security and encryption techniques
 💞️ I'm looking to collaborate on projects related to cybersecurity solutions and cloud-native applications.
 📫 You can reach me via email at michealekene@gmail.com
